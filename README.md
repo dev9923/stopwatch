@@ -28,3 +28,8 @@ npm install
 # Run the App Locally
 node server.js
 
+#Then open your browser and go to:
+http://localhost:3000
+
+
+
