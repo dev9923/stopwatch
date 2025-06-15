@@ -15,6 +15,15 @@ An elegant and responsive stopwatch web application built with **HTML**, **CSS**
 
 ---
 
+## Credits
+- Developed during my internship at CodSoft
+
+## Contact
+- Email: devanshbansal500@gmail.com
+- LinkedIn: www.linkedin.com/in/devansh-bansal-329ab7b1
+
+---
+
 ## 🛠️ Installation
 
 ```bash
@@ -27,6 +36,7 @@ npm install
 
 # Run the App Locally
 node server.js
+
 
 
 
