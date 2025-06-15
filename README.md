@@ -2,8 +2,6 @@
 
 An elegant and responsive stopwatch web application built with **HTML**, **CSS**, and **JavaScript**. Designed for simplicity, usability, and seamless performance — ideal for productivity tasks, workouts, coding sprints, or educational demonstrations.
 
-![Stopwatch UI Screenshot](public/img.jpg)
-
 ---
 
 ## 🚀 Features
@@ -17,5 +15,16 @@ An elegant and responsive stopwatch web application built with **HTML**, **CSS**
 
 ---
 
-## 
+## 🛠️ Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/dev9923/stopwatch.git
+cd stopwatch
+
+# Install dependencies
+npm install
+
+# Run the App Locally
+node server.js
 
